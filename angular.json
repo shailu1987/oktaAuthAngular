@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "okta-app"
+    }
+  },
+  "defaultProject": "okta-app",
+  "cli": {
+    "analytics": false
+  }
 }
